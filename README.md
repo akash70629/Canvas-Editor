@@ -105,6 +105,7 @@
 ├── Faq.html
 ├── Feedback.html
 ├── LICENSE
+├── Mini-canvas-painting-bird-of-paradise-1.jpg
 ├── README.md
 ├── about-us.html
 ├── about.html
@@ -116,7 +117,9 @@
 ├── canva.html
 ├── canva.js
 ├── canva.md
+├── canvas.jpg
 ├── community.html
+├── contact.html
 ├── contributors.html
 ├── download (1).webp
 ├── edition.html
@@ -125,12 +128,14 @@
 ├── index.html
 ├── login.html
 ├── logo4.png
+├── m_gen_canvas-square-p1_72f6de51-aaf7-4177-b19a-c8aae91404be.avif
 ├── package-lock.json
 ├── package.json
 ├── popup.jpg
 ├── popup.js
 ├── privacy.html
 ├── profile.html
+├── profileedit.html
 ├── repo_structure.txt
 ├── repreviewfix.html
 ├── resources/
